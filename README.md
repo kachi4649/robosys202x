@@ -1,16 +1,23 @@
+# RoboSys2022課題１提出
+
+,,,
+
+git clone https://github.com/Cola0912/RoboSys2022
+cd RoboSys2022
+
+,,,
+
 # plusコマンド
 ![test](https://github.com/kachi/robosys2022/actions/workflows/test.yml/badge.svg)
-↑ テスト結果を反映したバッジの画像が埋め込まれる。（ryuichiueda等は各自変更を。）
 
 標準入力から読み込んだ数字を足す。
 
 （ここに前ページの項目をいろいろ書く）
 
 ## 必要なソフトウェア
-* Python
-  * テスト済み: 3.7〜3.10
+* Python 3.7〜3.10
 
 ## テスト環境
-* Ubuntu
+* Ubuntu20
 
 © 2022 Takuma KACHI
