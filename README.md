@@ -3,12 +3,12 @@
 ,,,
 
 git clone https://github.com/Cola0912/RoboSys2022
-cd RoboSys2022
+cd Robosys2022
 
 ,,,
 
 # plusコマンド
-![test](https://github.com/kachi/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/kachimegatera/robosys2022/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
 
