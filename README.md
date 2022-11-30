@@ -1,4 +1,4 @@
-# RoboSys2022課題１提出
+# Robosys202x課題１提出
 
 ,,,
 
@@ -23,6 +23,6 @@ seq x | ./plus
 * Python 3.7〜3.10
 
 ## テスト環境
-* Ubuntu18.04
+* Ubuntu18.04 UbuntuのPython3.7~3.10
 
 © 2022 Takuma KACHI
