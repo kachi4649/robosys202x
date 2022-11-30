@@ -2,22 +2,27 @@
 
 ,,,
 
-git clone https://github.com/Cola0912/RoboSys2022
-cd Robosys2022
+git clone https://github.com/kachimegatera/robosys202x
+cd Robosys202x
 
 ,,,
 
-# plusコマンド
-![test](https://github.com/kachimegatera/robosys2022/actions/workflows/test.yml/badge.svg)
+# plusコマンド説明
+![test](https://github.com/kachimegatera/robosys202x/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
 
-（ここに前ページの項目をいろいろ書く）
+##使用方法
+,,,
+
+seq x | ./plus
+
+,,,
 
 ## 必要なソフトウェア
 * Python 3.7〜3.10
 
 ## テスト環境
-* Ubuntu20
+* Ubuntu18.04
 
 © 2022 Takuma KACHI
